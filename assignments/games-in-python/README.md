@@ -1,18 +1,18 @@
 
-# 📘 Assignment: Hangman Game
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa o clássico jogo de adivinhar palavras em Python para praticar manipulação de strings, loops, condicionais, entrada de dados e seleção aleatória.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Configurar a Palavra Secreta
 
-#### Description
+#### Descrição
 Crie a lógica inicial do jogo para selecionar uma palavra secreta a partir de uma lista predefinida e exibir o progresso da palavra ao jogador.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - Manter uma lista predefinida de palavras.
@@ -21,10 +21,10 @@ O programa concluído deve:
 
 ### 🛠️ Implementar os Palpites e o Encerramento
 
-#### Description
+#### Descrição
 Permita que o jogador envie palpites de letras e implemente as condições de vitória e derrota do jogo.
 
-#### Requirements
+#### Requisitos
 O programa concluído deve:
 
 - Aceitar palpites de letras e atualizar o progresso quando o palpite estiver correto.
